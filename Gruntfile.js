@@ -26,14 +26,14 @@ module.exports = function(grunt) {
     },
     concat: {
       options: {
-        separator: ';'
+        separator: '' //';'
       },
       js: {
         src: ['js/libs/jquery-1.11.1.js', 'js/libs/bootstrap.js', 'js/script.js'],
         dest: 'dest/deletable/<%= pkg.name %>.js'
       },
       css: {
-        src: 'css/*.css',
+        src: ['css/bootstrap.css', 'css/font-awesome.css', 'css/style.css'],
         dest: 'dest/deletable/<%= pkg.name %>.css'
       }
     }, 
