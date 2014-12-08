@@ -3,7 +3,7 @@
 ####This is a simple HTML5 Draft with Grunt JS TaskRunner configured.<br/><br/>
 ####Included: <br>
 **Grunt Tasks**: htmlmin, less, concat, cssmin, uglify, imagemin, watch, newer; <br>
-- **Google Fonts**;
+- **Google Fonts** CDN;
 - **Font Awesome** (v4.2.0);
 - **JQuery** (v1.11.1);
 - **Twitter Bootstrap.css** (v3.2.0);
