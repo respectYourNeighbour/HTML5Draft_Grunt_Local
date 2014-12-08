@@ -29,11 +29,11 @@ module.exports = function(grunt) {
         separator: '' //';'
       },
       js: {
-        src: ['js/libs/jquery-1.11.1.js', 'js/libs/bootstrap-3.1.1.js', 'js/script.js'],
+        src: ['js/libs/jquery-1.11.1.js', 'js/libs/bootstrap_3.1.1.js', 'js/script.js'],
         dest: 'dest/deletable/<%= pkg.name %>.js'
       },
       css: {
-        src: ['css/bootstrap-3.1.1.css', 'css/font-awesome.css', 'css/style.css'],
+        src: ['css/bootstrap_3.1.1.css', 'css/font-awesome.css', 'css/style.css'],
         dest: 'dest/deletable/<%= pkg.name %>.css'
       }
     }, 
