@@ -29,7 +29,7 @@ module.exports = function(grunt) {
         separator: '' //';'
       },
       js: {
-        src: ['js/libs/jquery-1.11.1.js', 'js/libs/bootstrap.js', 'js/script.js'],
+        src: ['js/libs/jquery-1.11.1.js', 'js/libs/modernizr-2.8.3.js', 'js/libs/bootstrap.js', 'js/script.js'],
         dest: 'dest/deletable/<%= pkg.name %>.js'
       },
       css: {
