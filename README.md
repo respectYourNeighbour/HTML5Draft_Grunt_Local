@@ -6,6 +6,7 @@
 - **Google Fonts** CDN;
 - **Font Awesome** (v4.2.0);
 - **JQuery** (v1.11.1);
+- **Modernizr** (v2.8.3);
 - **Twitter Bootstrap.css** (v3.2.0);
 - **Twitter Bootstrap.js** (v3.2.0);
 - Local CSS file;
