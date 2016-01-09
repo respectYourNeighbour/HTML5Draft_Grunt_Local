@@ -1,0 +1,12 @@
+body {
+  background-color: #112211!important;
+}
+body p {
+  color: red;
+}
+body h3 {
+  color: teal;
+}
+body header {
+  background-color: #222211;
+}

@@ -1,6 +1,7 @@
 {
   "name": "GruntDraft",
   "version": "0.1.0",
+  "license" : "none" ,
   "repository" :
   { "type" : "git"
   , "url" : "https://github.com/respectYourNeighbour/HTML_Boilerplate_Grunt"
