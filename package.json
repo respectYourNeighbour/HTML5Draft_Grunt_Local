@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/respectYourNeighbour/HTML5Draft_Grunt_Local"
+  , "url" : "https://github.com/respectYourNeighbour/HTML_Boilerplate_Grunt"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
